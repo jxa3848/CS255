@@ -1,1 +1,6 @@
 # CS255
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? Driverpass wanted to help people pass and learn the dmv test and the hand on driving part. They wanted us to design a system where people could sign up and buy packages then take test based on what they needed. the client was the owner of driverpass.
+What did you do particularly well? I think the lucid digrams were done well as I got a good grade on them and I had a good understanding of them.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? the fuction requirements and the non functional  from project one as I miss interpreted what they were asking for.
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? By reading the script of what they were asking for is how I found the needs then i made sure to include those items.
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? I want the requirements so I work on these first. A strategy I would use would be a activity calendar  to make sure I stay on track for the project.
